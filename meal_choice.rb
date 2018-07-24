@@ -14,7 +14,7 @@ def lunch(food="grilled cheese")
 end
 lunch
 
-def dnner(food="salmon")
+def dinner(food="salmon")
   puts "The best thing for dinner is #{salmon}"
 end
 dinner
